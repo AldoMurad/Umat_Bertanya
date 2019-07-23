@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752955968680",
+    "firebase_url": "https://umat-bertanya.firebaseio.com",
+    "project_id": "umat-bertanya",
+    "storage_bucket": "umat-bertanya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752955968680:android:737ed74a1be1f55d",
+        "android_client_info": {
+          "package_name": "com.mardesago.umatbertanya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752955968680-bb00474n9t8h0f23tv9q87bosfbsh8pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mardesago.umatbertanya",
+            "certificate_hash": "f0006e223b8f33a7790cf40aa0415f13b570ed9f"
+          }
+        },
+        {
+          "client_id": "752955968680-8kkdu34tkltmsjs8ugm6n398ao5dru0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXWMTwRu7aAsknM8yJEryusChF2BBE8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752955968680-8kkdu34tkltmsjs8ugm6n398ao5dru0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
